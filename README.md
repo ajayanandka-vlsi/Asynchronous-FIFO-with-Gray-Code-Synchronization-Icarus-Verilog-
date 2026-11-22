@@ -36,7 +36,7 @@ Simulated with Icarus Verilog on EDA Playground.
 
 ### Simulation result
 
-![Console output](console_pass.png)
+![Console output](console_pass_3.png)
 
 ### Overfill and pointer synchronization
 
